@@ -43,13 +43,22 @@ npm install
 npm run dev
 ```
 ## How It Works
-Login/Register: Secure user authentication ensures data privacy.
-Quiz Creation: Add questions with options, solutions, and a timer for each question.
-Score Analysis: Results include total scores, correct answers, and areas for improvement.
+
+1. **Login/Register**: Secure user authentication ensures data privacy.
+2. **Quiz Creation**: Add questions with options, solutions, and a timer for each question.
+3. **Practice Mode**: Users take quizzes in a timed environment.
+4. **Score Analysis**: Results include total scores, correct answers, and areas for improvement.
+
+## Contribution
+
+Contributions are welcome! Please fork the repository, make your changes, and create a pull request.
+
+---
 
 ## Author
-Abhishek Kumar
-LinkedIn: Abhishek Kumar
+
+**Abhishek Kumar**  
+LinkedIn: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-92157823a/)  
 Email: kumarabhishek188@gmail.com
 
 
