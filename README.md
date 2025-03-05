@@ -5,7 +5,6 @@ An interactive and dynamic online quiz platform that allows users to create, tak
 ## Key Features
 
 - **User Authentication**: Secure user registration and login using Firebase.
-- **Quiz Creation**: Add questions, set timers, and provide solutions for quizzes.
 - **Quiz Taking**: Users can take quizzes with a countdown timer and submit answers.
 - **Result Analysis**: Display scores, correct answers, and incorrect answers at the end of the quiz.
 - **Difficulty Levels**: Select question types and difficulty levels for quizzes.
@@ -17,8 +16,7 @@ An interactive and dynamic online quiz platform that allows users to create, tak
 This project was built using modern web technologies to ensure high performance and maintainability:
 
 - **React.js**: JavaScript library for building user interfaces.
-- **React Vite**: Enhanced development experience with improved build speed.
-- **React Hooks**: Efficient state and lifecycle management.
+- **React Vite**: Enhanced development experience with improved build speed..
 - **react-router-dom**: Seamless routing for multi-page navigation.
 - **Tailwind CSS**: For fast and customizable UI development.
 - **React Icons**: Icon library for enhancing visuals.
@@ -49,9 +47,6 @@ npm run dev
 3. **Practice Mode**: Users take quizzes in a timed environment.
 4. **Score Analysis**: Results include total scores, correct answers, and areas for improvement.
 
-## Contribution
-
-Contributions are welcome! Please fork the repository, make your changes, and create a pull request.
 
 ---
 
@@ -59,7 +54,7 @@ Contributions are welcome! Please fork the repository, make your changes, and cr
 
 **Abhishek Kumar**  
 LinkedIn: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-92157823a/)  
-Email: kumarabhishek188@gmail.com
+Email: abhishekkumarada12@gmail.com
 
 
 
